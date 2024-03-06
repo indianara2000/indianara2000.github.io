@@ -2,3 +2,19 @@ body{
   background-color: black ;
   color: white;
 }
+
+h1 {
+  color: lightgreen;
+  text-align: magenta;
+}
+
+h2
+{ color: darkseagreen;
+text-align:plum ;
+
+}
+h3
+{
+  color:deeppink ;
+text-align: hotpink;
+}
